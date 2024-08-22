@@ -7,7 +7,7 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.12"
-locust = "^2.29.1"
+locust = "^2.31.3"
 
 
 [build-system]
