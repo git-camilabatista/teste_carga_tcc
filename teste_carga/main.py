@@ -3,7 +3,7 @@ from uuid import uuid4
 from locust import HttpUser, between, task
 
 
-class FastAPIUser(HttpUser):
+class ApiUser(HttpUser):
     def on_start(self):
         self.email = f"user{str(uuid4())}@example.com"
         self.password = "password"
