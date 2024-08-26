@@ -55,8 +55,8 @@ Example of a returned link: `INFO/locust.main: Starting web interface at <LINK>`
 Locust initial settings screen:
 ![image](https://github.com/user-attachments/assets/617eab05-c9c5-475b-94d9-0650d7bf0710)
 
-🚩 If you are testing the [Django REST Framework](https://github.com/git-camilabatista/django_tcc) application, set the host field to: `http://127.0.0.1:8000/api`
+🚩 If you are testing the [Django REST](https://github.com/git-camilabatista/django_tcc) application, set the host field to: `http://127.0.0.1:8000/api`
 
-🚩 If you are testing the [Flask Framework](https://github.com/git-camilabatista/flask_tcc) application, set the host field to:  `http://127.0.0.1:8002`
+🚩 If you are testing the [Flask](https://github.com/git-camilabatista/flask_tcc) application, set the host field to:  `http://127.0.0.1:8002`
 
-🚩 If you are testing the [FastAPI Framework](https://github.com/git-camilabatista/fastapi_tcc) application, set the host field to: `http://127.0.0.1:8001`
+🚩 If you are testing the [FastAPI](https://github.com/git-camilabatista/fastapi_tcc) application, set the host field to: `http://127.0.0.1:8001`
